@@ -44,12 +44,5 @@ You must run this project through a local development server.
 ├── spider-man_spider-man_no_way_home.glb       # External 3D character model
 └── README.md                                   # Project documentation
 
-👨‍💻 Author
-Nandlal Mahato
-First-Year B.Tech Computer Science and Engineering Student
-Email: nandlalmahato0001@gmail.com
-LinkedIn: Nandlal Mahato
 
-📄 License
-This project is open-source and available for educational and portfolio display purposes.
-The 3D character asset properties belong to their respective creators and copyright holders.
+
